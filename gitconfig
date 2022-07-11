@@ -52,3 +52,7 @@
 
 [init]
   defaultBranch = master
+
+[user]
+	email = vincent.brunel20@gmail.com
+	name = vincent brunel
